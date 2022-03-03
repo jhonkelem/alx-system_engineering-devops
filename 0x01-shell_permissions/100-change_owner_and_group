@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:holberton
+chown vincent:chgrp_staff
