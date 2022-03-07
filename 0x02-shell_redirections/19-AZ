@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$string" | tr Ac _ Ze
+tr 'Ac' 'Ze'
